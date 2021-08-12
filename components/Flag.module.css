@@ -1,0 +1,34 @@
+.circle{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 436px;
+top: 324px;
+border-radius: 50%;
+border: 1px dashed #C9C9C9;
+box-sizing: border-box;
+}
+
+.text{
+   position: absolute;
+    width: 81px;
+    height: 24px;
+    top: -52px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2E98C5;
+}
+/* flag */
+
+i.fa.fa-flag {
+     
+    font-weight: 900 !important;
+    position: absolute !important;
+    /* width: 1609px; */
+    /* height: 123px; */
+    left: 15px !important;
+    top: 15px !important;
+}

@@ -1,0 +1,11 @@
+.list{
+    position: absolute;
+width: 118px;
+height: 145px;
+left: 451px;
+top: 377px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 6px 1px rgba(0, 0, 0, 0.15);
+border-radius: 9px;
+}
